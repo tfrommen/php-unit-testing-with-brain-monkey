@@ -40,14 +40,14 @@ So, for example, running the test suite for exercise 1 would be this:
 
 In case you might want to refer to the official documentation of the tools you are using:
 
-* [PHPUnit](https://phpunit.de/manual/5.7/en/index.html)
-    * [Writing Tests for PHPUnit](https://phpunit.de/manual/5.7/en/writing-tests-for-phpunit.html)
-    * [Assertions](https://phpunit.de/manual/5.7/en/appendixes.assertions.html)
-* [Brain Monkey](https://brain-wp.github.io/BrainMonkey/)
-    * [Patching with `when()`](https://brain-wp.github.io/BrainMonkey/docs/functions-when.html)
-    * [Testing with `expect()`](https://brain-wp.github.io/BrainMonkey/docs/functions-expect.html)
-    * [Testing Added Hooks](https://brain-wp.github.io/BrainMonkey/docs/wordpress-hooks-added.html)
-    * [Testing Fired Hooks](https://brain-wp.github.io/BrainMonkey/docs/wordpress-hooks-done.html)
+* [PHPUnit](https://phpunit.readthedocs.io/en/7.5/)
+    * [Writing Tests for PHPUnit](https://phpunit.readthedocs.io/en/7.5/writing-tests-for-phpunit.html)
+    * [Assertions](https://phpunit.readthedocs.io/en/7.5/assertions.html)
+* [Brain Monkey](https://giuseppe-mazzapica.gitbook.io/brain-monkey/)
+    * [Patching functions with `when()`](https://giuseppe-mazzapica.gitbook.io/brain-monkey/functions-testing-tools/functions-when)
+    * [Testing functions with `expect()`](https://giuseppe-mazzapica.gitbook.io/brain-monkey/functions-testing-tools/functions-expect)
+    * [Test added hooks](https://giuseppe-mazzapica.gitbook.io/brain-monkey/wordpress-specific-tools/wordpress-hooks-added)
+    * [Test done hooks](https://giuseppe-mazzapica.gitbook.io/brain-monkey/wordpress-specific-tools/wordpress-hooks-done)
 * [Mockery](http://docs.mockery.io/en/latest/)
     * [Creating Test Doubles](http://docs.mockery.io/en/latest/reference/creating_test_doubles.html)
     * [Expectation Declarations](http://docs.mockery.io/en/latest/reference/expectations.html)
